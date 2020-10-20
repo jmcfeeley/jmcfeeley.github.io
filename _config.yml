@@ -18,15 +18,17 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Blog
+    url: /blog 
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
+  github: jmcfeeley
+  twitter: 
   facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: jason.mcfeeley1@gmail.com
   linkedin: brianmaierjr
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
 
 disqus:
     shortname: my-disqus-shortname
